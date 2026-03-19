@@ -9,7 +9,7 @@ from aiogram.fsm.state import State, StatesGroup
 from aiohttp import web
 
 # --- SOZLAMALAR ---
-API_TOKEN = '8613693212:AAGPxSce8tQEHI-iSLR3YGJalr40PdyQFSc'
+API_TOKEN = '8613693212:AAGJy4J4a27ijFuLwyeiqvVy3NjDVxaaf24'
 ADMIN_PASSWORD = "shohjahon"
 ADMIN_ID = None  # Birinchi marta kirganda aniqlanadi
 
