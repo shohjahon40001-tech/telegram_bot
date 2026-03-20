@@ -9,8 +9,8 @@ from aiogram.fsm.state import State, StatesGroup
 from aiohttp import web
 
 # --- SOZLAMALAR ---
-API_TOKEN = '8613693212:AAGPxSce8tQEHI-iSLR3YGJalr40PdyQFSc'
-ADMIN_PASSWORD = "shohjahon"
+API_TOKEN = '8613693212:AAHIxu12A3H1mrA1Ofw2GvPOUQB2UO7SJAE'
+ADMIN_PASSWORD = "Shohjahon"
 
 logging.basicConfig(level=logging.INFO)
 bot = Bot(token=API_TOKEN)
