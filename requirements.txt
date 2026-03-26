@@ -2,3 +2,4 @@ aiogram
 requests
 aiohttp
 aiosqlite
+telebot
