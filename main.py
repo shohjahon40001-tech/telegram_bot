@@ -3,7 +3,7 @@ import sqlite3
 from telebot import types
 
 # --- SOZLAMALAR ---
-API_TOKEN = '8026117592:AAHh_zyBWs257hOzKOqQsmuhNh5zwicciX8'
+API_TOKEN = '8026117592:AAG-5FvkZzKgoBirP74Iq_xXiNPxWtSvsZ0'
 ADMIN_ID = 8453381252
 
 bot = telebot.TeleBot(API_TOKEN)
