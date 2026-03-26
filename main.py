@@ -9,7 +9,7 @@ from aiogram.fsm.state import State, StatesGroup
 from aiohttp import web
 
 # --- SOZLAMALAR ---
-API_TOKEN = '8026117592:AAE0sN7zSo1FGOpqC5_Zc_DTg-L1T_LrMS8'
+API_TOKEN = '8026117592:AAGJyz65lfsFO8RlD1jA5wSGb156CIoSYbo'
 ADMIN_PASSWORD = "Shohjahon"
 
 logging.basicConfig(level=logging.INFO)
