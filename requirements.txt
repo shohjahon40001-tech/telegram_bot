@@ -1,5 +1,1 @@
-aiogram
-requests
-aiohttp
-aiosqlite
-telebot
+pyTelegramBotAPI
